@@ -1,0 +1,5 @@
+Tag has a removable battery so they're likely recycled
+
+Battery casing can be disassembled with ease buti is locked into the main case behind a SIM took-like slot. contains two Panasonic CR2032 3V batteries.
+
+Tag seems to have alot of test points, also lights up green for less than a half second when connected to power
