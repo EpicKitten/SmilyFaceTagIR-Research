@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Test1
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 85 FE 7C 90 3E 17 01 00 00 00 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 ED 5F 90 01
+# 

@@ -1,0 +1,8 @@
+This video from another dev seems helpful, found on https://hackaday.com/2014/05/03/game-boy-vs-electronic-shelf-labels/
+https://youtu.be/YkwY8mwDSec
+
+Seems to be the same person behind https://github.com/furrtek/PrecIR/
+
+Video mentions the carrier frequency is 1.25MHz. Bad news, flipperzero receiver only goes up to 56khz. 
+
+ESL_3Colors_CarrierFreq.ir didn't show any buttons on screen

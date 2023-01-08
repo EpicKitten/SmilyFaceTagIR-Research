@@ -1,0 +1,141 @@
+Filetype: IR signals file
+Version: 1
+#
+name: Button1
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 17 01 00 00 00 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 ED 5F 90 01
+#
+name: Button2
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 05 01 88 00 02 01 00 D0 00 70 00 00 00 00 00 00 88 00 00 00 00 00 00 1C 72 01 00
+#
+name: Button3
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 00 81 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 37 B4 01 00
+#
+name: Button4
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 01 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 7F 10 01 00
+#
+name: Button5
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 02 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 46 91 01 00
+#
+name: Button6
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 03 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 8E 94 01 00
+#
+name: Button7
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 BB 38 01 00
+#
+name: Button8
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 05 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 AC 44 01 00
+#
+name: Button9
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 06 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 06 D2 01 00
+#
+name: Button10
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 07 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 9F FD 01 00
+#
+name: Button11
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 08 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 62 94 01 00
+#
+name: Button12
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 09 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 83 7B 01 00
+#
+name: Button13
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 0A 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 93 10 01 00
+#
+name: Button14
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 0B 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 CE 0F 01 00
+#
+name: Button15
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 0C 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 B1 C0 01 00
+#
+name: Button16
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 0D 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 C3 38 01 00
+#
+name: Button17
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 0E 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 82 79 01 00
+#
+name: Button18
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 0F 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 66 10 01 00
+#
+name: Button19
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 10 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 6D 91 01 00
+#
+name: Button20
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 11 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 04 A5 94 01 00
+#
+name: Button21
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 12 60 11 00 46 01 10 04 60 11 00 46 01 10 04 60 11 00 46 01 10 20 E5 01 00
+#
+name: Button22
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 20 00 13 04 60 11 00 46 01 10 04 60 11 00 46 00 00 00 00 00 00 00 00 7B C0 01 00
+#
+name: Button23
+type: raw
+frequency: 1250000
+duty_cycle: 0.330000
+data: 85 FE 7C 90 3E 34 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 90 9D 01 00
+#
